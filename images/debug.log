@@ -1,0 +1,15 @@
+[1006/104658.848:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+[1006/104658.840:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+[1007/024057.966:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024103.741:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024108.749:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024113.857:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024118.876:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024123.885:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024127.408:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024127.731:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024128.921:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024248.737:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024253.748:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024258.762:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/024303.775:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
